@@ -1,10 +1,5 @@
 <h1>Dev front-end</h1>
 
-<div align="start">
-  
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galdinogabriel&layout=compact&hide_border=true&title_color=D0C5EF&text_color=ffff&bg_color=292954"/>
-  
-</div>
   
   <div style="display: inline_block"><br>
   <img align="center" alt="Logo Gabi HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original-wordmark.svg">
