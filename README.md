@@ -1,7 +1,7 @@
-<img width=100% src="https://ferhenriquef.files.wordpress.com/2012/04/efwallpaper02.gif">
+<img width=60% src="https://augustopontin.com.br/wp-content/uploads/2020/02/hello_world.gif">
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=matos-gabriel&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
+<div align="start">
+  
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matosgabriel&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>
   
 </div>
