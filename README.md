@@ -25,9 +25,8 @@ Aqui, você encontrará alguns dos meus projetos e códigos 😁<p>
 <p>Se você quiser entrar em contato comigo para falar sobre colaborações, oportunidades de trabalho ou apenas para trocar ideias, sinta-se à vontade para enviar uma mensagem nas redes abaixo 👇</p>
    
    <div> 
-     <a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- <a href="https://discord.gg/5DVhGKVf4h" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:gemeos@devemdobro.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+     <a href="https://www.linkedin.com/in/gabriel-galdino1/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:matosgabriel017@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 <br>
 <p>
