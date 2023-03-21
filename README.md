@@ -1,7 +1,10 @@
+
+
+![github-cover](https://lh3.googleusercontent.com/D7AgS2MByCc3JyoksSU9Ry4biNlAEYQCgtApn0pCwls2QAxMyEnjJIK8GkOkeXTiz0NO7SMXAyhr4exkopWLq72fMrlv0s43xqk4P9eE0ji4shXmISUBfiOgu_Smqp66_oSPXe06vSwZ84XNip-d1EqEsKhUusM5utj8OYUgY1E9JiLKrUZQsOBpLkD30Y9XotKONrz4TZjwbThBbTMGNZ6iHHdbWQbK1-Yv_Ki4kmo00tns3r3B-6zJ6H20k9-OXwYTUla9I0F91907S07wVnHBCKn02TmBv0Cfs-AXu99Rnyu1nQATWIY9SAatF0O_31jFAU-vskmxhv8h3y56tUU-ee-LlOQUQChWr-cdzSdNvXk6k1dIrRCL5JtOVsbsPTwuMgxwQn4gnRbEBHBljpYq4217SWFctZ9dULVuTiaAJHzZMDgUQ9h8ahzuolclhMpHnjrvNquNWapbTYgyMXP8LqFU2xcGMmySUbU6GWzWHIdZXMJnK9XC8enIdfYzuh9xikbArA7oP2Zkldhg2gqMfbcnCcX1Eef1S8wlmUWBBm8TKl9UIAMcPM4o22-JrI2ZWbD3pNCAklcbCm3vhf8NSEiu6Jyv8McS4A4LsE8EXlSGk2NGGkEfB6v7w4d7z3hJXePsDooWuQ6ETbb76XBbU3PnfJIsBShQn8AlLAPF_4hZYIC1ZiX2u_bGPjyrjz1Gu4OQskEvEnZ2G1rEqnbJdsCLwcP10Aga4yIepRBPn4KL6GW9DtzUPNUfKYeOfDKTGORv0PT7wCVu4YYTcIJdOEWVGozQb_eBw4Qmbv0KKs5NKwiV38s_5FMoYbGb2C8YlWfbXibr-loX-o37VgMTE3-VAO7g6S8Izw7iyq5JBCj2sHYzrQ6eoR037qEr0YOZIcreiYWCyFnDamycg8USHpZhixT2fpYY6nWFSf4Bg-Gt0ePCI1Tnv9knlal2f94Vcy8SkP37xDKTgOCq=w1584-h396-no?authuser=1)
+
 <h1>Bem-vindo(a) ao meu GitHub!</h2>
 Aqui, você encontrará alguns dos meus projetos e códigos 😁<p>
-
-
+ 
  <div>
    <a href="https://github.com/galdinogabriel">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=galdinogabriel&show_icons=true&bg_color=00000000&theme=monokai&hide=stars"/>
