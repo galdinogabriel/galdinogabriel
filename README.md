@@ -2,7 +2,7 @@
 
 ![github-cover](https://i.postimg.cc/YC4jyRrQ/Black-Minimal-Motivation-Quote-Linked-In-Banner.png)
 
-<h1>Bem-vindo(a) ao meu GitHub!</h2>
+<h1>Bem-vindo(a) ao meu GitHub! 😀</h2>
 Aqui, você encontrará alguns dos meus projetos e códigos 😁<p>
  
  <div>
@@ -11,7 +11,7 @@ Aqui, você encontrará alguns dos meus projetos e códigos 😁<p>
 
 </div>
 
-   <h2> Techs que utilizo no dia dia</h2>
+   <h2> Tecnologias que utilizo no dia dia 📌</h2>
 <div style="display: inline_block"><br>
   <img align="center" alt="Logo HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="Logo CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -19,11 +19,12 @@ Aqui, você encontrará alguns dos meus projetos e códigos 😁<p>
   <img align="center" alt="Logo React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Logo VsCode" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img align="center" alt="Logo Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="Logo Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whitee">
  
   </div>
  
  <br>
-  <h2>Estou estudando</h2>
+  <h2>Estou estudando 📚</h2>
   <div style="display: inline_block"><br>
    <img align="center" alt="Logo Typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"> 
    <img align="center" alt="Logo NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"> 
